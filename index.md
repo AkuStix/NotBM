@@ -10,7 +10,7 @@ Simple, easy, and a reason to beat up cute creatures.
 From here I'd like to introduce our nightmare. The Three Eyed Crow.
 His wings act the main attack for the game, and it uses a plethora of weapons which are fueled by the destruction of the dreams.
 
-![Image of Crow](https://i.imgur.com/pJnoUoI.gif)
+<img align="center" width="144" height="161" src="https://i.imgur.com/pJnoUoI.gif">
 
 A main mechanic of this game is your weapons ammo - which is harvested from killing dream creatures.
 Dream creatures are often cute and fuzzy, but take many forms in many places. Such as Tuba's, and Octopus (they're my favorite).
