@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AkuStix/NotBM/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Night of the Blood Moon
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Game
+Here for you is my first outing of Night of the Blood moon. The game that I hope to share with the world in due time. This is my first post on TIG and something I've wanted to do for a long time, but I felt my energy would be better spent working on the game, NotBM. That is... until today. Hopefully you will all enjoy these demonstrations as much as I have making the game.
 
-### Markdown
+Night of the blood moon has a simple story: During Blood Moons/Lunar Eclipses your nightmares break into your dreams and begin to tear them apart.
+Simple, easy, and a reason to beat up cute creatures.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From here I'd like to introduce our nightmare. The Three Eyed Crow.
+His wings act the main attack for the game, and it uses a plethora of weapons which are fueled by the destruction of the dreams.
 
-```markdown
-Syntax highlighted code block
+![Image of Crow](https://i.imgur.com/pJnoUoI.gif)
 
-# Header 1
-## Header 2
-### Header 3
+A main mechanic of this game is your weapons ammo - which is harvested from killing dream creatures.
+Dream creatures are often cute and fuzzy, but take many forms in many places. Such as Tuba's, and Octopus (they're my favorite).
 
-- Bulleted
-- List
+![Image of Mouse](https://i.imgur.com/xp3BEIN.gif)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Weapons currently included in the game are bombs, crossbows, and boomerangs. I pull a lot of reference from Zelda games, but add my own twists to make them more impact-ful, fun, and unique.
 
-[Link](url) and ![Image](src)
-```
+**_________________________________________________________________________________________________________________**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here are a few quick gifs of the game, much of the art is currently unfinished. I am sole programmer and artist on Night of the Blood Moon.
+*The numbers on the side are for testing purposes. Please ignore them  :)*
 
-### Jekyll Themes
+![Level One](https://thumbs.gfycat.com/SpitefulBarrenEastsiberianlaika-size_restricted.gif)
+Quick in-development select screen, and first level. Each level is randomly generated with it's own name.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AkuStix/NotBM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Thunderstorm Level](https://thumbs.gfycat.com/CarefulMistyLacewing-size_restricted.gif)
+My favorite level so far, quiet, dark, and thunderous! You'll need lightning quick reflexes to survive here.
+
+![Symphony Level](https://thumbs.gfycat.com/LiveDizzyIndochinesetiger-size_restricted.gif)
+The symphony - lots of work to be done here still. Those beds are filler - and will be changed with a stage in time.
+
+![Water Level](https://thumbs.gfycat.com/ObedientDearestBaleenwhale-size_restricted.gif)
+It wouldn't be a game with-out a water level. This one is a lot of fun, nimbleness is the name of the game.
+Winning / Losing generates a random message. Feel free to add more to these! All of them so far are submissions from friends.
+**___________________________________________________________________________________________________________________**
+
+My goal is to create a fun - but challenging experience for an affordable price. The game will have 9 levels minimum, along with a variety of weapons. Unlocking more weapons is my goal. Bosses will be more than health pools, I want them to introduce unique mechanics into the genre - which is something I'd like to see more of in the games industry.
+
+An example of this would be the Boss of the Symphony. In this level the dream creatures take on various forms of instruments. Harps, Drums, and a Tuba with a blow-dart/flute.
+If you awaken the conductor he will use the instruments to play a symphony, but if you manage to destroy the instruments first then the symphony will be unplayable, and the conductor is useless - easy kill. The symphony adds a large challenge to the match in way of projectiles, but is beatable with strategy. Of course, every map is randomly generated - so the challenge will vary.
+
+NotBM's biggest downfall currently is sound design and music. I have 0 experience beyond my self teachings for both of these things. Any feedback on good places to start or look would be amazing. Thank you TIG!
+
+
+Ohya! There is also a leveling system. Currently ugly as all hell, but the idea is a skill-tree which randomly generates rows of different abilities. Health, Attack, Ranged, ect. You can buy an upgrade if you've obtained a connecting one. It isn't too deep, but it does add one extra sense of strategy to each run.
+
+![Image of Marty](https://thumbs.gfycat.com/WindyEvergreenGodwit-size_restricted.gif)
+
+One of my favorite abilities is the 'Marty-bomb' where on death the nightmare, Marty, takes over; getting a kill will re-summon the Three Eyed Crow.
+
+**I'll leave it at that for now, any feedback would be appreciated. My heart is in this, and my goals are high. Hopefully I can share this experience with all of you!**
 
 ### Support or Contact
+Tyler McDermott
+Artist, and Programmer
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tyler.McDermott88@Gmail.com
