@@ -6,7 +6,7 @@ Here for you is my first outing of Night of the Blood moon - The game that I hop
 Night of the blood moon has a simple story: During Blood Moons/Lunar Eclipses your nightmares break into your dreams and begin to tear them apart.
 Simple, easy, and a reason to beat up cute creatures.
 
-####Characters
+#### Characters
 From here I'd like to introduce our nightmare. The Three Eyed Crow.
 His wings act the main attack for the game, and it uses a plethora of weapons which are fueled by the destruction of the dreams.
 
@@ -22,7 +22,7 @@ Weapons currently included in the game are bombs, crossbows, and boomerangs. I p
 
 **_________________________________________________________________________________________________________________**
 
-###Screenshots
+### Screenshots
 *The numbers on the side are for testing purposes. Please ignore them  :)*
 
 ![Level One](https://thumbs.gfycat.com/SpitefulBarrenEastsiberianlaika-size_restricted.gif)
