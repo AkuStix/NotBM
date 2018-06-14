@@ -1,8 +1,10 @@
 
+# Night of the Blood Moon
+
 ## Welcome to Night of the Blood Moon
+Here for you is my first outing of Night of the Blood moon. The game that I hope to share with the world in due time. This is my first post on TIG and something I've wanted to do for a long time, but I felt my energy would be better spent working on the game, NotBM. That is... until today. Hopefully you will all enjoy these demonstrations as much as I have making the game.
 
 ### The Game
-Here for you is my first outing of Night of the Blood moon. The game that I hope to share with the world in due time. This is my first post on TIG and something I've wanted to do for a long time, but I felt my energy would be better spent working on the game, NotBM. That is... until today. Hopefully you will all enjoy these demonstrations as much as I have making the game.
 
 Night of the blood moon has a simple story: During Blood Moons/Lunar Eclipses your nightmares break into your dreams and begin to tear them apart.
 Simple, easy, and a reason to beat up cute creatures.
