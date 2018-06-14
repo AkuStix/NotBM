@@ -2,7 +2,7 @@
 # Night of the Blood Moon
 
 ## Welcome to Night of the Blood Moon
-Here for you is my first outing of Night of the Blood moon. The game that I hope to share with the world in due time. This is my first post on TIG and something I've wanted to do for a long time, but I felt my energy would be better spent working on the game, NotBM. That is... until today. Hopefully you will all enjoy these demonstrations as much as I have making the game.
+Here for you is my first outing of Night of the Blood moon - The game that I hope to share with the world in due time. This is the beginning of my attempt to introduce it to the public. Hopefully you will all enjoy these demonstrations as much as I have making the game.
 
 ### The Game
 
@@ -28,17 +28,17 @@ Here are a few quick gifs of the game, much of the art is currently unfinished. 
 *The numbers on the side are for testing purposes. Please ignore them  :)*
 
 ![Level One](https://thumbs.gfycat.com/SpitefulBarrenEastsiberianlaika-size_restricted.gif)
-Quick in-development select screen, and first level. Each level is randomly generated with it's own name.
+*Quick in-development select screen, and first level. Each level is randomly generated with it's own name.*
 
 ![Thunderstorm Level](https://thumbs.gfycat.com/CarefulMistyLacewing-size_restricted.gif)
-My favorite level so far, quiet, dark, and thunderous! You'll need lightning quick reflexes to survive here.
+*My favorite level so far, quiet, dark, and thunderous! You'll need lightning quick reflexes to survive here.*
 
 ![Symphony Level](https://thumbs.gfycat.com/LiveDizzyIndochinesetiger-size_restricted.gif)
-The symphony - lots of work to be done here still. Those beds are filler - and will be changed with a stage in time.
+*The symphony - lots of work to be done here still. Those beds are filler - and will be changed with a stage in time.*
 
 ![Water Level](https://thumbs.gfycat.com/ObedientDearestBaleenwhale-size_restricted.gif)
-It wouldn't be a game with-out a water level. This one is a lot of fun, nimbleness is the name of the game.
-Winning / Losing generates a random message. Feel free to add more to these! All of them so far are submissions from friends.
+*It wouldn't be a game with-out a water level. This one is a lot of fun, nimbleness is the name of the game.
+Winning / Losing generates a random message. Feel free to add more to these! All of them so far are submissions from friends.*
 **___________________________________________________________________________________________________________________**
 
 My goal is to create a fun - but challenging experience for an affordable price. The game will have 9 levels minimum, along with a variety of weapons. Unlocking more weapons is my goal. Bosses will be more than health pools, I want them to introduce unique mechanics into the genre - which is something I'd like to see more of in the games industry.
@@ -52,8 +52,8 @@ NotBM's biggest downfall currently is sound design and music. I have 0 experienc
 Ohya! There is also a leveling system. Currently ugly as all hell, but the idea is a skill-tree which randomly generates rows of different abilities. Health, Attack, Ranged, ect. You can buy an upgrade if you've obtained a connecting one. It isn't too deep, but it does add one extra sense of strategy to each run.
 
 ![Image of Marty](https://thumbs.gfycat.com/WindyEvergreenGodwit-size_restricted.gif)
+*One of my favorite abilities is the 'Marty-bomb' where on death the nightmare, Marty, takes over; getting a kill will re-summon the Three Eyed Crow.*
 
-One of my favorite abilities is the 'Marty-bomb' where on death the nightmare, Marty, takes over; getting a kill will re-summon the Three Eyed Crow.
 
 **I'll leave it at that for now, any feedback would be appreciated. My heart is in this, and my goals are high. Hopefully I can share this experience with all of you!**
 
