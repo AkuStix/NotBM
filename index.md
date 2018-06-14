@@ -1,5 +1,5 @@
 
-## Welcome to Night of the Blood Moon
+<p>## Welcome to Night of the Blood Moon</p>
 Here for you is my first outing of Night of the Blood moon - The game that I hope to share with the world in due time. This is the beginning of my attempt to introduce it to the public. Hopefully you will all enjoy these demonstrations as much as I have making the game.
 
 ### The Game
