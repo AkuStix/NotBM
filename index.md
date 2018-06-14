@@ -1,6 +1,4 @@
 
-# Night of the Blood Moon
-
 ## Welcome to Night of the Blood Moon
 Here for you is my first outing of Night of the Blood moon - The game that I hope to share with the world in due time. This is the beginning of my attempt to introduce it to the public. Hopefully you will all enjoy these demonstrations as much as I have making the game.
 
@@ -57,7 +55,7 @@ Ohya! There is also a leveling system. Currently ugly as all hell, but the idea 
 
 **I'll leave it at that for now, any feedback would be appreciated. My heart is in this, and my goals are high. Hopefully I can share this experience with all of you!**
 
-### Support or Contact
+## Support or Contact
 Tyler McDermott
 Artist, and Programmer
 
