@@ -39,13 +39,13 @@ Weapons currently included in the game are bombs, crossbows, and boomerangs. I p
 Winning / Losing generates a random message. Feel free to add more to these! All of them so far are submissions from friends.*
 **___________________________________________________________________________________________________________________**
 
-##Goals and Mechanics
+## Goals and Mechanics
 My goal is to create a fun - but challenging experience for an affordable price. The game will have 9 levels minimum, along with a variety of weapons. Unlocking more weapons is my goal. Bosses will be more than health pools, I want them to introduce unique mechanics into the genre - which is something I'd like to see more of in the games industry.
 
 An example of this would be the Boss of the Symphony. In this level the dream creatures take on various forms of instruments. Harps, Drums, and a Tuba with a blow-dart/flute.
 If you awaken the conductor he will use the instruments to play a symphony, but if you manage to destroy the instruments first then the symphony will be unplayable, and the conductor is useless - easy kill. The symphony adds a large challenge to the match in way of projectiles, but is beatable with strategy. Of course, every map is randomly generated - so the challenge will vary.
 
-NotBM's biggest downfall currently is sound design and music. I have 0 experience beyond my self teachings for both of these things. Any feedback on good places to start or look would be amazing. Thank you TIG!
+*NotBM's biggest downfall currently is sound design and music. I have 0 experience beyond my self teachings for both of these things. Any feedback on good places to start or look would be amazing. Thank you TIG!*
 
 Ohya! There is also a leveling system. Currently ugly as all hell, but the idea is a skill-tree which randomly generates rows of different abilities. Health, Attack, Ranged, ect. You can buy an upgrade if you've obtained a connecting one. It isn't too deep, but it does add one extra sense of strategy to each run.
 
