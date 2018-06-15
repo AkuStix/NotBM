@@ -58,5 +58,5 @@ Ohya! There is also a leveling system. Currently ugly as all hell, but the idea 
 ## Support or Contact
 Tyler McDermott
 Artist, and Programmer
-
-Tyler.McDermott88@Gmail.com
+![Cool Dude](https://i.imgur.com/M796o1E.gif)
+Tyler.McDermott88@Gmail.com 
